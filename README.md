@@ -1,9 +1,9 @@
 # News-App
-This App used to get news using newsapi.org api using technologies Retrofit, MVVM, RecyclerView and WebView
+This App used to get news using newsapi.org api using technologies Retrofit, MVVM, RecyclerView and WebView</br>
 
 
-App Parts:
-1-Top headlines :
+App Parts:</br>
+1-Top headlines :</br>
   in this part user choose country code and catgeory after that click on show articles will show list of articales and user can click on any article will go to the page that published this article.
 2-Headlines From TechCrunch :
   In this part will show all articles about TechCruch.
